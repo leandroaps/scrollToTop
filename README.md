@@ -1,5 +1,6 @@
 # scrollToTop
 This snippet can be used to do a smooth scroll to the top of the current page.
+
 ```
 const scrollToTop = () => {
   const c = document.documentElement.scrollTop || document.body.scrollTop;
